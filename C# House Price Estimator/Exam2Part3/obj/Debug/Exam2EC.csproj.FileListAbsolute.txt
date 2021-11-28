@@ -1,0 +1,9 @@
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\bin\Debug\Exam2EC.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\bin\Debug\Exam2EC.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\bin\Debug\Exam2EC.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\obj\Debug\Exam2EC.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\obj\Debug\Exam2EC.Form1.resources
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\obj\Debug\Exam2EC.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\obj\Debug\Exam2EC.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\obj\Debug\Exam2EC.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\Exam2EC\Exam2EC\obj\Debug\Exam2EC.pdb

@@ -1,0 +1,7 @@
+C:\Users\kdbroy01\Desktop\Exam2-F18-START\Exam2-199-Fall18\Exam2Part3\obj\Debug\Exam2Part3.csprojAssemblyReference.cache
+C:\Users\kdbroy01\Desktop\Exam2-F18-START\Exam2-199-Fall18\Exam2Part3\obj\Debug\Exam2Part3.Form1.resources
+C:\Users\kdbroy01\Desktop\Exam2-F18-START\Exam2-199-Fall18\Exam2Part3\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\kdbroy01\Desktop\Exam2-F18-START\Exam2-199-Fall18\Exam2Part3\obj\Debug\Exam2Part3.csproj.GenerateResource.cache
+C:\Users\kdbroy01\Desktop\Exam2-F18-START\Exam2-199-Fall18\Exam2Part3\obj\Debug\Exam2Part3.csproj.CoreCompileInputs.cache
+C:\Users\kdbroy01\Desktop\Exam2-F18-START\Exam2-199-Fall18\Exam2Part3\obj\Debug\Exam2EC.exe
+C:\Users\kdbroy01\Desktop\Exam2-F18-START\Exam2-199-Fall18\Exam2Part3\obj\Debug\Exam2EC.pdb

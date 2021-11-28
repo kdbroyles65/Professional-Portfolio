@@ -1,0 +1,10 @@
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\obj\Debug\Prog1.csprojAssemblyReference.cache
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\obj\Debug\Prog1.Form1.resources
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.cache
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\bin\Debug\Prog1.exe
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\bin\Debug\Prog1.pdb
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\obj\Debug\Prog1.exe
+C:\Users\KyleB\Documents\University of Louisville\(3) Sophomore Fall 2018\(2) CIS 199-02\Programs\Program 1\Program1\Prog1\Prog1\obj\Debug\Prog1.pdb

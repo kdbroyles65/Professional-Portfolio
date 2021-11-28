@@ -1,0 +1,16 @@
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\bin\Debug\Exam2EC.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\obj\Debug\Exam2EC.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\obj\Debug\Exam2EC.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\bin\Debug\Exam2EC.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\bin\Debug\Exam2EC.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\obj\Debug\Exam2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\obj\Debug\Exam2.Form1.resources
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_15S\Exams\Exam2-Start\Exam2\obj\Debug\Exam2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_16F\Exams\Exam2Start\Exam2\bin\Debug\Exam2EC.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_16F\Exams\Exam2Start\Exam2\obj\Debug\Exam2EC.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_16F\Exams\Exam2Start\Exam2\obj\Debug\Exam2EC.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_16F\Exams\Exam2Start\Exam2\obj\Debug\Exam2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_16F\Exams\Exam2Start\Exam2\obj\Debug\Exam2.Form1.resources
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_16F\Exams\Exam2Start\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_16F\Exams\Exam2Start\Exam2\obj\Debug\Exam2.csproj.GenerateResource.Cache
